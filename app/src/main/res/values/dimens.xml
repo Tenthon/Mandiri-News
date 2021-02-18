@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_icon_home">21dp</dimen>
+    <dimen name="margin_right_left">20dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_img_profile_menu">16dp</dimen>
+    <dimen name="margin_base_layout">17dp</dimen>
+    <dimen name="text_standar">12dp</dimen>
+
+</resources>
